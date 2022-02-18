@@ -1,0 +1,8 @@
+{
+    "name": "vsdjidjoy",
+    "main": "electron-main.js",
+    "devDependencies": {
+        "electron": "^16.0.7",
+        "electron-packager": "^15.4.0"
+    }
+}
